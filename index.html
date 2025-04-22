@@ -23887,20 +23887,28 @@
         counselor: document.getElementById('counselorSelect').value
       };
   
-      fetch('https://script.google.com/macros/s/AKfycbyFbXBFuT6tHYCvxGTLldIOKPtZhvElZI1uyrAOZHY_lndGZ0xcdDKGYo3AqPkYKiUFEg/exec', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data)
-      })
-        .then(() => {
-          alert('Lead marked as interested!');
-          closeModal();
-        })
-        .catch((err) => {
-          alert('There was an error submitting the form.');
-          console.error(err);
-        });
-    });
+      fetch('https://sheetdb.io/api/v1/usp9neaj4ni3v', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    data: {
+      college: document.getElementById('collegeName').value,
+      course: document.getElementById('courseSelect').value,
+      student_name: document.getElementById('studentName').value,
+      phone: document.getElementById('studentPhone').value,
+      email: document.getElementById('studentEmail').value,
+      counselor: document.getElementById('counselorSelect').value
+    }
+  })
+})
+.then(() => {
+  alert('Lead marked as interested!');
+  closeModal();
+})
+.catch((err) => {
+  alert('There was an error submitting the form.');
+  console.error(err);
+});
   
     document.addEventListener("DOMContentLoaded", () => {
       populateStates();
