@@ -23909,7 +23909,8 @@
   alert('There was an error submitting the form.');
   console.error(err);
 });
-  
+}); // ✅ This closes the event listener function
+
     document.addEventListener("DOMContentLoaded", () => {
       populateStates();
     });
