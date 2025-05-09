@@ -43668,6 +43668,50 @@ function renderCourseDetails(course) {
   `;
 }
 
+function updateCourseDetails(selectElement, collegeId, category) {
+    const selectedCourseId = selectElement.value;
+    const courseObject = coursesData.find(course =>
+        course.course_id === selectedCourseId && course.college_id === collegeId
+    );
+
+    let detailsHtml = "<p>Course details not found.</p>";
+    if (courseObject) {
+        detailsHtml = renderCourseDetails(courseObject);
+    }
+
+    const targetDivId = `course-${collegeId}`;
+    const targetDiv = document.getElementById(targetDivId);
+
+    if (targetDiv) {
+        targetDiv.innerHTML = detailsHtml;
+    } else {
+        console.error("Target div for course details not found:", targetDivId);
+    }
+}
+
+function updateCourseDetailsForCompare(selectElement, collegeId) {
+    const selectedCourseId = selectElement.value; // This is the course_id for the selected specialization
+
+    // Find the course in your coursesData array
+    const courseObject = coursesData.find(course =>
+        course.course_id === selectedCourseId && course.college_id === collegeId
+    );
+
+    let detailsHtml = "<p>Specialization details not found.</p>"; // Default message
+    if (courseObject) {
+        detailsHtml = renderCourseDetails(courseObject); // Use the same render function
+    }
+
+    // Construct the ID of the div we need to update
+    const targetDivId = `compare-course-${collegeId}`; // Note the different ID
+    const targetDiv = document.getElementById(targetDivId);
+
+    if (targetDiv) {
+        targetDiv.innerHTML = detailsHtml;
+    } else {
+        console.error("Target div for course comparison details not found:", targetDivId);
+    }
+}
 
 // 📊 COMPARISON FUNCTIONS (Compare Colleges and Courses)
 function renderComparison() {
