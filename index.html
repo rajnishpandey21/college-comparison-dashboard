@@ -77810,71 +77810,100 @@ function renderComparison() {
     });
 }
 function renderCourseComparison() {
-  courseComparisonSection.innerHTML = "";
-  selectedCourseColleges.forEach(({ collegeId, courseId }) => {
-    const col = collegesData.find(c => c.college_id === collegeId);
-    const place = placementsData.find(p => p.college_id === collegeId);
+    courseComparisonSection.innerHTML = ""; // Clear previous comparison boxes
 
-    const allCourses = coursesData.filter(c => c.college_id === collegeId);
-    const defaultCourse = allCourses.find(c => c.course_id === courseId) || allCourses[0];
+    selectedCourseColleges.forEach(({ collegeId, courseId }) => {
+        // Find the college details from collegesData
+        const col = collegesData.find(c => c.college_id === collegeId);
+        // Find placement data if available
+        const place = placementsData.find(p => p.college_id === collegeId);
 
-    const filteredCourses = allCourses.filter(c => c.course_name === defaultCourse.course_name);
+        // Get all courses for this specific college
+        const allCourses = coursesData.filter(c => c.college_id === collegeId);
 
-    const seenSpecs = new Set();
-    const uniqueCourses = [];
-    filteredCourses.forEach(c => {
-      const spec = c.specialisation || 'General';
-      if (!seenSpecs.has(spec)) {
-        seenSpecs.add(spec);
-        uniqueCourses.push(c);
-      }
+        // Determine the default course to display initially
+        // This should be the course that was initially selected to get into this comparison
+        let defaultCourse = allCourses.find(c => c.course_id === courseId);
+        if (!defaultCourse && allCourses.length > 0) {
+            defaultCourse = allCourses[0]; // Fallback to the first course if the specific ID isn't found (should be rare)
+        } else if (!defaultCourse) {
+            defaultCourse = null; // Ensure it's null if no courses are found
+        }
+
+
+        let courseOptions = "";
+        if (defaultCourse) { // Only generate options if there's a default course (and thus related courses)
+            // Filter courses to only include those with the same course_name as the default (for specialization dropdown)
+            const filteredCoursesForOptions = allCourses.filter(c => c.course_name === defaultCourse.course_name);
+
+            // Create a unique list of specializations for the dropdown
+            const seenSpecs = new Set();
+            const uniqueSpecializationCourses = [];
+            filteredCoursesForOptions.forEach(c => {
+                const spec = c.specialisation || 'General';
+                if (!seenSpecs.has(spec)) {
+                    seenSpecs.add(spec);
+                    uniqueSpecializationCourses.push(c); // Push the whole course object to retain course_id
+                }
+            });
+
+            // Ensure the initially selected defaultCourse is the first option if it's a part of unique specializations
+            // Or simply build options based on unique specializations
+            const sortedSpecializationCourses = [
+                defaultCourse, // Prioritize the defaultCourse
+                ...uniqueSpecializationCourses.filter(c => c.course_id !== defaultCourse.course_id)
+                    .sort((a, b) => (a.specialisation || '').localeCompare(b.specialisation || ''))
+            ];
+
+            courseOptions = sortedSpecializationCourses.map(c =>
+                `<option value="${c.course_id}" ${c.course_id === defaultCourse.course_id ? 'selected' : ''}>${c.specialisation || 'General'}</option>`
+            ).join("");
+        }
+
+
+        // Create the comparison box element
+        const box = document.createElement("div");
+        box.className = "comparison-box";
+
+        // Populate the inner HTML of the comparison box
+        box.innerHTML = `
+            <h4 class="college-title">${col ? col.college_name : 'College Not Found'}</h4>
+
+            <div class="section-header">📘 Basic Information</div>
+            <div class="section-card">
+                <p>
+                    <strong>Established:</strong> ${col ? col.established_year || '-' : '-'}<br>
+                    <strong>Ownership:</strong> ${col ? col.ownership || '-' : '-'}<br>
+                    <strong>Website:</strong> ${col && col.website ? `<a href="${col.website}" target="_blank">${col.website}</a>` : '-'}<br>
+                    <strong>Application Form Fees:</strong> ₹${formatINR(col ? col.application_form_fees : undefined) || 'N/A'}<br>
+                    <strong>Seat Block Fees:</strong> ₹${formatINR(col ? col.seat_block_fees : undefined) || 'N/A'}
+                </p>
+            </div>
+
+            <div class="section-header">🎓 Course Details</div>
+            <div class="section-card">
+                <label><strong>Specialization:</strong></label>
+                <select onchange="updateCourseDetailsForCompare(this, '${collegeId}')">
+                    ${courseOptions}
+                </select>
+                <div id="compare-course-${collegeId}">${renderCourseDetails(defaultCourse)}</div>
+            </div>
+
+            <div class="section-header">💼 Placement</div>
+            <div class="section-card">
+                <p>
+                    <strong>Avg Package:</strong> ₹${formatINR(place ? place.avg_ctc : undefined) || '-'}<br>
+                    <strong>Highest:</strong> ₹${formatINR(place ? place.highest_ctc : undefined) || '-'}<br>
+                    <strong>Placement %:</strong> ${place && typeof place.placement_percentage === 'number' ? (place.placement_percentage * 100).toFixed(2) + '%' : '-'}
+                </p>
+                <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
+                    <button class="action-button" onclick="handlebitly('${collegeId}')">BitLy</button>
+                    <button class="action-button" onclick="handleBrochure('${collegeId}')">Brochure</button>
+                </div>
+            </div>
+        `;
+        courseComparisonSection.appendChild(box);
     });
-
-    const sortedCourses = [
-      defaultCourse,
-      ...uniqueCourses.filter(c => c.course_id !== defaultCourse.course_id)
-        .sort((a, b) => (a.specialisation || '').localeCompare(b.specialisation || ''))
-    ];
-
-    const courseOptions = sortedCourses.map(c =>
-      `<option value="${c.course_id}">${c.specialisation || 'General'}</option>`
-    ).join("");
-
-    const box = document.createElement("div");
-    box.className = "comparison-box";
-    box.innerHTML = `
-      <h4 class="college-title">${col.college_name}</h4>
-
-      <div class="section-header">📘 Basic Information</div>
-      <div class="section-card">
-        <p><strong>Established:</strong> ${col.established_year || '-'}<br>
-        <strong>Ownership:</strong> ${col.ownership || '-'}<br>
-        <strong>Website:</strong> <a href="${col.website}" target="_blank">${col.website}</a></p>
-      </div>
-
-      <div class="section-header">🎓 Course Details</div>
-      <div class="section-card">
-        <label><strong>Specialization:</strong></label>
-        <select onchange="updateCourseDetailsForCompare(this, '${collegeId}')">
-          ${courseOptions}
-        </select>
-        <div id="compare-course-${collegeId}">${renderCourseDetails(defaultCourse)}</div>
-      </div>
-
-      <div class="section-header">💼 Placement</div>
-      <div class="section-card">
-        <p><strong>Avg Package:</strong> ₹${formatINR(place?.avg_ctc) || '-'}<br>
-        <strong>Highest:</strong> ₹${formatINR(place?.highest_ctc) || '-'}<br>
-        <strong>Placement %:</strong> ${place?.placement_percentage ? (place.placement_percentage * 100).toFixed(2) + '%' : '-'}</p>
-
-        <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;">
-          <button class="action-button" onclick="handlebitly('${collegeId}')">BitLy</button>
-          <button class="action-button" onclick="handleBrochure('${collegeId}')">Brochure</button>
-        </div>
-      </div>
-    `;
-    courseComparisonSection.appendChild(box);
-  });
 }
 
 // ✨ Function to Add College to Comparison (College Search Mode)
