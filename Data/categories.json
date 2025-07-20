@@ -1,0 +1,2706 @@
+[
+  {
+    "college_id": "C001",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C001",
+    "category": "Management"
+  },
+  {
+    "college_id": "C001",
+    "category": "Others"
+  },
+  {
+    "college_id": "C001",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C002",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C002",
+    "category": "Others"
+  },
+  {
+    "college_id": "C002",
+    "category": "Management"
+  },
+  {
+    "college_id": "C002",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C003",
+    "category": "Others"
+  },
+  {
+    "college_id": "C003",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C003",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C003",
+    "category": "Management"
+  },
+  {
+    "college_id": "C004",
+    "category": "Others"
+  },
+  {
+    "college_id": "C004",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C004",
+    "category": "Management"
+  },
+  {
+    "college_id": "C004",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C005",
+    "category": "Management"
+  },
+  {
+    "college_id": "C005",
+    "category": "Others"
+  },
+  {
+    "college_id": "C005",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C005",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C006",
+    "category": "Management"
+  },
+  {
+    "college_id": "C006",
+    "category": "Others"
+  },
+  {
+    "college_id": "C006",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C006",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C007",
+    "category": "Others"
+  },
+  {
+    "college_id": "C007",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C007",
+    "category": "Management"
+  },
+  {
+    "college_id": "C008",
+    "category": "Others"
+  },
+  {
+    "college_id": "C008",
+    "category": "Management"
+  },
+  {
+    "college_id": "C008",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C008",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C009",
+    "category": "Management"
+  },
+  {
+    "college_id": "C009",
+    "category": "Others"
+  },
+  {
+    "college_id": "C009",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C009",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C010",
+    "category": "Others"
+  },
+  {
+    "college_id": "C010",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C010",
+    "category": "Management"
+  },
+  {
+    "college_id": "C011",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C011",
+    "category": "Others"
+  },
+  {
+    "college_id": "C011",
+    "category": "Management"
+  },
+  {
+    "college_id": "C012",
+    "category": "Others"
+  },
+  {
+    "college_id": "C012",
+    "category": "Management"
+  },
+  {
+    "college_id": "C012",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C013",
+    "category": "Others"
+  },
+  {
+    "college_id": "C013",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C013",
+    "category": "Management"
+  },
+  {
+    "college_id": "C014",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C014",
+    "category": "Others"
+  },
+  {
+    "college_id": "C014",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C014",
+    "category": "Management"
+  },
+  {
+    "college_id": "C015",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C015",
+    "category": "Management"
+  },
+  {
+    "college_id": "C015",
+    "category": "Others"
+  },
+  {
+    "college_id": "C016",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C017",
+    "category": "Others"
+  },
+  {
+    "college_id": "C017",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C019",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C019",
+    "category": "Others"
+  },
+  {
+    "college_id": "C019",
+    "category": "Management"
+  },
+  {
+    "college_id": "C021",
+    "category": "Others"
+  },
+  {
+    "college_id": "C021",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C021",
+    "category": "Management"
+  },
+  {
+    "college_id": "C021",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C023",
+    "category": "Others"
+  },
+  {
+    "college_id": "C023",
+    "category": "Management"
+  },
+  {
+    "college_id": "C023",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C024",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C024",
+    "category": "Others"
+  },
+  {
+    "college_id": "C024",
+    "category": "Management"
+  },
+  {
+    "college_id": "C024",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C025",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C026",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C026",
+    "category": "Management"
+  },
+  {
+    "college_id": "C026",
+    "category": "Others"
+  },
+  {
+    "college_id": "C027",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C027",
+    "category": "Others"
+  },
+  {
+    "college_id": "C027",
+    "category": "Management"
+  },
+  {
+    "college_id": "C027",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C028",
+    "category": "Management"
+  },
+  {
+    "college_id": "C028",
+    "category": "Others"
+  },
+  {
+    "college_id": "C028",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C029",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C029",
+    "category": "Management"
+  },
+  {
+    "college_id": "C029",
+    "category": "Others"
+  },
+  {
+    "college_id": "C030",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C030",
+    "category": "Management"
+  },
+  {
+    "college_id": "C030",
+    "category": "Others"
+  },
+  {
+    "college_id": "C032",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C033",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C033",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C033",
+    "category": "Others"
+  },
+  {
+    "college_id": "C033",
+    "category": "Management"
+  },
+  {
+    "college_id": "C034",
+    "category": "Management"
+  },
+  {
+    "college_id": "C034",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C034",
+    "category": "Others"
+  },
+  {
+    "college_id": "C034",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C035",
+    "category": "Management"
+  },
+  {
+    "college_id": "C035",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C036",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C036",
+    "category": "Others"
+  },
+  {
+    "college_id": "C036",
+    "category": "Management"
+  },
+  {
+    "college_id": "C036",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C037",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C037",
+    "category": "Others"
+  },
+  {
+    "college_id": "C037",
+    "category": "Management"
+  },
+  {
+    "college_id": "C038",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C038",
+    "category": "Others"
+  },
+  {
+    "college_id": "C038",
+    "category": "Management"
+  },
+  {
+    "college_id": "C038",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C040",
+    "category": "Others"
+  },
+  {
+    "college_id": "C040",
+    "category": "Management"
+  },
+  {
+    "college_id": "C040",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C041",
+    "category": "Others"
+  },
+  {
+    "college_id": "C041",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C041",
+    "category": "Management"
+  },
+  {
+    "college_id": "C041",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C043",
+    "category": "Others"
+  },
+  {
+    "college_id": "C043",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C043",
+    "category": "Management"
+  },
+  {
+    "college_id": "C043",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C044",
+    "category": "Management"
+  },
+  {
+    "college_id": "C045",
+    "category": "Others"
+  },
+  {
+    "college_id": "C045",
+    "category": "Management"
+  },
+  {
+    "college_id": "C045",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C045",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C046",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C046",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C046",
+    "category": "Management"
+  },
+  {
+    "college_id": "C046",
+    "category": "Others"
+  },
+  {
+    "college_id": "C047",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C047",
+    "category": "Management"
+  },
+  {
+    "college_id": "C047",
+    "category": "Others"
+  },
+  {
+    "college_id": "C048",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C048",
+    "category": "Others"
+  },
+  {
+    "college_id": "C048",
+    "category": "Management"
+  },
+  {
+    "college_id": "C048",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C049",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C049",
+    "category": "Management"
+  },
+  {
+    "college_id": "C050",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C050",
+    "category": "Others"
+  },
+  {
+    "college_id": "C050",
+    "category": "Management"
+  },
+  {
+    "college_id": "C050",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C052",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C052",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C052",
+    "category": "Management"
+  },
+  {
+    "college_id": "C053",
+    "category": "Management"
+  },
+  {
+    "college_id": "C053",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C053",
+    "category": "Others"
+  },
+  {
+    "college_id": "C053",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C054",
+    "category": "Others"
+  },
+  {
+    "college_id": "C054",
+    "category": "Management"
+  },
+  {
+    "college_id": "C054",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C054",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C056",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C056",
+    "category": "Others"
+  },
+  {
+    "college_id": "C056",
+    "category": "Management"
+  },
+  {
+    "college_id": "C056",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C057",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C057",
+    "category": "Management"
+  },
+  {
+    "college_id": "C057",
+    "category": "Others"
+  },
+  {
+    "college_id": "C057",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C058",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C058",
+    "category": "Management"
+  },
+  {
+    "college_id": "C058",
+    "category": "Others"
+  },
+  {
+    "college_id": "C059",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C059",
+    "category": "Others"
+  },
+  {
+    "college_id": "C059",
+    "category": "Management"
+  },
+  {
+    "college_id": "C059",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C061",
+    "category": "Others"
+  },
+  {
+    "college_id": "C061",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C061",
+    "category": "Management"
+  },
+  {
+    "college_id": "C061",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C062",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C062",
+    "category": "Others"
+  },
+  {
+    "college_id": "C062",
+    "category": "Management"
+  },
+  {
+    "college_id": "C063",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C063",
+    "category": "Management"
+  },
+  {
+    "college_id": "C063",
+    "category": "Others"
+  },
+  {
+    "college_id": "C063",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C064",
+    "category": "Others"
+  },
+  {
+    "college_id": "C064",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C064",
+    "category": "Management"
+  },
+  {
+    "college_id": "C065",
+    "category": "Others"
+  },
+  {
+    "college_id": "C065",
+    "category": "Management"
+  },
+  {
+    "college_id": "C065",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C065",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C066",
+    "category": "Others"
+  },
+  {
+    "college_id": "C066",
+    "category": "Management"
+  },
+  {
+    "college_id": "C066",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C067",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C067",
+    "category": "Management"
+  },
+  {
+    "college_id": "C067",
+    "category": "Others"
+  },
+  {
+    "college_id": "C067",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C068",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C068",
+    "category": "Management"
+  },
+  {
+    "college_id": "C068",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C069",
+    "category": "Others"
+  },
+  {
+    "college_id": "C069",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C069",
+    "category": "Management"
+  },
+  {
+    "college_id": "C069",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C070",
+    "category": "Management"
+  },
+  {
+    "college_id": "C071",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C071",
+    "category": "Management"
+  },
+  {
+    "college_id": "C071",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C072",
+    "category": "Others"
+  },
+  {
+    "college_id": "C072",
+    "category": "Management"
+  },
+  {
+    "college_id": "C072",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C072",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C073",
+    "category": "Management"
+  },
+  {
+    "college_id": "C073",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C073",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C073",
+    "category": "Others"
+  },
+  {
+    "college_id": "C074",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C075",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C075",
+    "category": "Others"
+  },
+  {
+    "college_id": "C075",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C075",
+    "category": "Management"
+  },
+  {
+    "college_id": "C076",
+    "category": "Others"
+  },
+  {
+    "college_id": "C076",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C077",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C077",
+    "category": "Management"
+  },
+  {
+    "college_id": "C077",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C077",
+    "category": "Others"
+  },
+  {
+    "college_id": "C078",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C079",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C079",
+    "category": "Management"
+  },
+  {
+    "college_id": "C079",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C081",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C081",
+    "category": "Management"
+  },
+  {
+    "college_id": "C081",
+    "category": "Others"
+  },
+  {
+    "college_id": "C081",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C082",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C082",
+    "category": "Management"
+  },
+  {
+    "college_id": "C083",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C084",
+    "category": "Others"
+  },
+  {
+    "college_id": "C084",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C084",
+    "category": "Management"
+  },
+  {
+    "college_id": "C085",
+    "category": "Others"
+  },
+  {
+    "college_id": "C085",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C085",
+    "category": "Management"
+  },
+  {
+    "college_id": "C085",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C087",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C087",
+    "category": "Management"
+  },
+  {
+    "college_id": "C088",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C088",
+    "category": "Management"
+  },
+  {
+    "college_id": "C088",
+    "category": "Others"
+  },
+  {
+    "college_id": "C088",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C089",
+    "category": "Others"
+  },
+  {
+    "college_id": "C089",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C089",
+    "category": "Management"
+  },
+  {
+    "college_id": "C090",
+    "category": "Others"
+  },
+  {
+    "college_id": "C090",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C091",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C091",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C091",
+    "category": "Management"
+  },
+  {
+    "college_id": "C092",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C092",
+    "category": "Management"
+  },
+  {
+    "college_id": "C093",
+    "category": "Others"
+  },
+  {
+    "college_id": "C093",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C093",
+    "category": "Management"
+  },
+  {
+    "college_id": "C093",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C094",
+    "category": "Others"
+  },
+  {
+    "college_id": "C094",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C095",
+    "category": "Management"
+  },
+  {
+    "college_id": "C096",
+    "category": "Management"
+  },
+  {
+    "college_id": "C097",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C097",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C097",
+    "category": "Management"
+  },
+  {
+    "college_id": "C097",
+    "category": "Others"
+  },
+  {
+    "college_id": "C098",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C098",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C098",
+    "category": "Management"
+  },
+  {
+    "college_id": "C099",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C099",
+    "category": "Management"
+  },
+  {
+    "college_id": "C100",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C100",
+    "category": "Management"
+  },
+  {
+    "college_id": "C100",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C101",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C101",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C101",
+    "category": "Management"
+  },
+  {
+    "college_id": "C101",
+    "category": "Others"
+  },
+  {
+    "college_id": "C102",
+    "category": "Management"
+  },
+  {
+    "college_id": "C102",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C102",
+    "category": "Others"
+  },
+  {
+    "college_id": "C102",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C103",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C104",
+    "category": "Management"
+  },
+  {
+    "college_id": "C104",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C104",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C105",
+    "category": "Management"
+  },
+  {
+    "college_id": "C105",
+    "category": "Others"
+  },
+  {
+    "college_id": "C105",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C105",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C106",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C106",
+    "category": "Others"
+  },
+  {
+    "college_id": "C106",
+    "category": "Management"
+  },
+  {
+    "college_id": "C106",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C108",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C108",
+    "category": "Management"
+  },
+  {
+    "college_id": "C108",
+    "category": "Others"
+  },
+  {
+    "college_id": "C108",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C109",
+    "category": "Others"
+  },
+  {
+    "college_id": "C109",
+    "category": "Management"
+  },
+  {
+    "college_id": "C109",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C110",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C110",
+    "category": "Others"
+  },
+  {
+    "college_id": "C110",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C110",
+    "category": "Management"
+  },
+  {
+    "college_id": "C111",
+    "category": "Others"
+  },
+  {
+    "college_id": "C111",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C111",
+    "category": "Management"
+  },
+  {
+    "college_id": "C111",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C112",
+    "category": "Management"
+  },
+  {
+    "college_id": "C112",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C112",
+    "category": "Others"
+  },
+  {
+    "college_id": "C113",
+    "category": "Management"
+  },
+  {
+    "college_id": "C113",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C114",
+    "category": "Others"
+  },
+  {
+    "college_id": "C114",
+    "category": "Management"
+  },
+  {
+    "college_id": "C115",
+    "category": "Management"
+  },
+  {
+    "college_id": "C116",
+    "category": "Others"
+  },
+  {
+    "college_id": "C116",
+    "category": "Management"
+  },
+  {
+    "college_id": "C116",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C117",
+    "category": "Management"
+  },
+  {
+    "college_id": "C117",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C117",
+    "category": "Others"
+  },
+  {
+    "college_id": "C118",
+    "category": "Management"
+  },
+  {
+    "college_id": "C118",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C118",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C118",
+    "category": "Others"
+  },
+  {
+    "college_id": "C119",
+    "category": "Management"
+  },
+  {
+    "college_id": "C119",
+    "category": "Others"
+  },
+  {
+    "college_id": "C119",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C120",
+    "category": "Management"
+  },
+  {
+    "college_id": "C120",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C121",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C121",
+    "category": "Others"
+  },
+  {
+    "college_id": "C121",
+    "category": "Management"
+  },
+  {
+    "college_id": "C122",
+    "category": "Management"
+  },
+  {
+    "college_id": "C122",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C123",
+    "category": "Management"
+  },
+  {
+    "college_id": "C123",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C123",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C124",
+    "category": "Management"
+  },
+  {
+    "college_id": "C124",
+    "category": "Others"
+  },
+  {
+    "college_id": "C124",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C124",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C125",
+    "category": "Others"
+  },
+  {
+    "college_id": "C125",
+    "category": "Management"
+  },
+  {
+    "college_id": "C125",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C125",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C126",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C126",
+    "category": "Management"
+  },
+  {
+    "college_id": "C127",
+    "category": "Others"
+  },
+  {
+    "college_id": "C127",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C127",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C127",
+    "category": "Management"
+  },
+  {
+    "college_id": "C128",
+    "category": "Management"
+  },
+  {
+    "college_id": "C128",
+    "category": "Others"
+  },
+  {
+    "college_id": "C128",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C129",
+    "category": "Others"
+  },
+  {
+    "college_id": "C129",
+    "category": "Management"
+  },
+  {
+    "college_id": "C129",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C129",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C130",
+    "category": "Others"
+  },
+  {
+    "college_id": "C130",
+    "category": "Management"
+  },
+  {
+    "college_id": "C130",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C130",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C131",
+    "category": "Others"
+  },
+  {
+    "college_id": "C131",
+    "category": "Management"
+  },
+  {
+    "college_id": "C131",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C132",
+    "category": "Management"
+  },
+  {
+    "college_id": "C132",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C133",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C133",
+    "category": "Management"
+  },
+  {
+    "college_id": "C133",
+    "category": "Others"
+  },
+  {
+    "college_id": "C133",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C134",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C135",
+    "category": "Management"
+  },
+  {
+    "college_id": "C135",
+    "category": "Others"
+  },
+  {
+    "college_id": "C135",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C136",
+    "category": "Others"
+  },
+  {
+    "college_id": "C136",
+    "category": "Management"
+  },
+  {
+    "college_id": "C136",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C136",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C137",
+    "category": "Others"
+  },
+  {
+    "college_id": "C137",
+    "category": "Management"
+  },
+  {
+    "college_id": "C137",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C137",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C138",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C138",
+    "category": "Others"
+  },
+  {
+    "college_id": "C139",
+    "category": "Others"
+  },
+  {
+    "college_id": "C139",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C139",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C139",
+    "category": "Management"
+  },
+  {
+    "college_id": "C140",
+    "category": "Management"
+  },
+  {
+    "college_id": "C140",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C141",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C142",
+    "category": "Management"
+  },
+  {
+    "college_id": "C142",
+    "category": "Others"
+  },
+  {
+    "college_id": "C142",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C143",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C143",
+    "category": "Management"
+  },
+  {
+    "college_id": "C143",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C144",
+    "category": "Management"
+  },
+  {
+    "college_id": "C144",
+    "category": "Others"
+  },
+  {
+    "college_id": "C144",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C144",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C145",
+    "category": "Management"
+  },
+  {
+    "college_id": "C145",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C145",
+    "category": "Others"
+  },
+  {
+    "college_id": "C145",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C146",
+    "category": "Management"
+  },
+  {
+    "college_id": "C147",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C148",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C148",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C148",
+    "category": "Others"
+  },
+  {
+    "college_id": "C149",
+    "category": "Others"
+  },
+  {
+    "college_id": "C149",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C149",
+    "category": "Management"
+  },
+  {
+    "college_id": "C149",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C150",
+    "category": "Management"
+  },
+  {
+    "college_id": "C150",
+    "category": "Others"
+  },
+  {
+    "college_id": "C150",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C151",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C151",
+    "category": "Management"
+  },
+  {
+    "college_id": "C152",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C152",
+    "category": "Others"
+  },
+  {
+    "college_id": "C152",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C152",
+    "category": "Management"
+  },
+  {
+    "college_id": "C153",
+    "category": "Others"
+  },
+  {
+    "college_id": "C153",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C153",
+    "category": "Management"
+  },
+  {
+    "college_id": "C153",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C154",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C154",
+    "category": "Others"
+  },
+  {
+    "college_id": "C154",
+    "category": "Management"
+  },
+  {
+    "college_id": "C155",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C155",
+    "category": "Others"
+  },
+  {
+    "college_id": "C155",
+    "category": "Management"
+  },
+  {
+    "college_id": "C156",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C157",
+    "category": "Management"
+  },
+  {
+    "college_id": "C157",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C157",
+    "category": "Others"
+  },
+  {
+    "college_id": "C157",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C158",
+    "category": "Others"
+  },
+  {
+    "college_id": "C158",
+    "category": "Management"
+  },
+  {
+    "college_id": "C158",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C159",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C159",
+    "category": "Management"
+  },
+  {
+    "college_id": "C159",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C160",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C160",
+    "category": "Management"
+  },
+  {
+    "college_id": "C160",
+    "category": "Others"
+  },
+  {
+    "college_id": "C160",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C161",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C161",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C161",
+    "category": "Management"
+  },
+  {
+    "college_id": "C162",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C162",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C162",
+    "category": "Management"
+  },
+  {
+    "college_id": "C163",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C163",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C164",
+    "category": "Management"
+  },
+  {
+    "college_id": "C164",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C165",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C165",
+    "category": "Management"
+  },
+  {
+    "college_id": "C166",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C166",
+    "category": "Management"
+  },
+  {
+    "college_id": "C166",
+    "category": "Others"
+  },
+  {
+    "college_id": "C167",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C167",
+    "category": "Management"
+  },
+  {
+    "college_id": "C167",
+    "category": "Others"
+  },
+  {
+    "college_id": "C167",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C168",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C168",
+    "category": "Management"
+  },
+  {
+    "college_id": "C169",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C169",
+    "category": "Management"
+  },
+  {
+    "college_id": "C169",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C169",
+    "category": "Others"
+  },
+  {
+    "college_id": "C170",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C170",
+    "category": "Management"
+  },
+  {
+    "college_id": "C170",
+    "category": "Others"
+  },
+  {
+    "college_id": "C170",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C171",
+    "category": "Management"
+  },
+  {
+    "college_id": "C171",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C171",
+    "category": "Others"
+  },
+  {
+    "college_id": "C172",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C172",
+    "category": "Others"
+  },
+  {
+    "college_id": "C172",
+    "category": "Management"
+  },
+  {
+    "college_id": "C172",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C173",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C173",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C173",
+    "category": "Management"
+  },
+  {
+    "college_id": "C173",
+    "category": "Others"
+  },
+  {
+    "college_id": "C174",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C174",
+    "category": "Others"
+  },
+  {
+    "college_id": "C174",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C174",
+    "category": "Management"
+  },
+  {
+    "college_id": "C175",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C175",
+    "category": "Others"
+  },
+  {
+    "college_id": "C175",
+    "category": "Management"
+  },
+  {
+    "college_id": "C175",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C176",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C176",
+    "category": "Management"
+  },
+  {
+    "college_id": "C176",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C177",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C177",
+    "category": "Management"
+  },
+  {
+    "college_id": "C177",
+    "category": "Others"
+  },
+  {
+    "college_id": "C178",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C178",
+    "category": "Management"
+  },
+  {
+    "college_id": "C178",
+    "category": "Others"
+  },
+  {
+    "college_id": "C179",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C179",
+    "category": "Management"
+  },
+  {
+    "college_id": "C180",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C180",
+    "category": "Management"
+  },
+  {
+    "college_id": "C180",
+    "category": "Others"
+  },
+  {
+    "college_id": "C181",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C181",
+    "category": "Management"
+  },
+  {
+    "college_id": "C181",
+    "category": "Others"
+  },
+  {
+    "college_id": "C181",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C182",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C182",
+    "category": "Management"
+  },
+  {
+    "college_id": "C182",
+    "category": "Others"
+  },
+  {
+    "college_id": "C182",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C183",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C183",
+    "category": "Management"
+  },
+  {
+    "college_id": "C183",
+    "category": "Others"
+  },
+  {
+    "college_id": "C185",
+    "category": "Management"
+  },
+  {
+    "college_id": "C185",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C185",
+    "category": "Others"
+  },
+  {
+    "college_id": "C188",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C188",
+    "category": "Others"
+  },
+  {
+    "college_id": "C188",
+    "category": "Management"
+  },
+  {
+    "college_id": "C188",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C189",
+    "category": "Management"
+  },
+  {
+    "college_id": "C189",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C189",
+    "category": "Others"
+  },
+  {
+    "college_id": "C190",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C190",
+    "category": "Management"
+  },
+  {
+    "college_id": "C190",
+    "category": "Others"
+  },
+  {
+    "college_id": "C191",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C191",
+    "category": "Management"
+  },
+  {
+    "college_id": "C191",
+    "category": "Others"
+  },
+  {
+    "college_id": "C191",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C192",
+    "category": "Management"
+  },
+  {
+    "college_id": "C193",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C193",
+    "category": "Management"
+  },
+  {
+    "college_id": "C194",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C195",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C195",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C195",
+    "category": "Management"
+  },
+  {
+    "college_id": "C195",
+    "category": "Others"
+  },
+  {
+    "college_id": "C196",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C197",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C197",
+    "category": "Others"
+  },
+  {
+    "college_id": "C197",
+    "category": "Management"
+  },
+  {
+    "college_id": "C197",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C198",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C198",
+    "category": "Management"
+  },
+  {
+    "college_id": "C198",
+    "category": "Others"
+  },
+  {
+    "college_id": "C198",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C199",
+    "category": "Others"
+  },
+  {
+    "college_id": "C199",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C200",
+    "category": "Others"
+  },
+  {
+    "college_id": "C201",
+    "category": "Others"
+  },
+  {
+    "college_id": "C201",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C202",
+    "category": "Others"
+  },
+  {
+    "college_id": "C202",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C202",
+    "category": "Management"
+  },
+  {
+    "college_id": "C202",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C203",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C203",
+    "category": "Others"
+  },
+  {
+    "college_id": "C204",
+    "category": "Others"
+  },
+  {
+    "college_id": "C204",
+    "category": "Management"
+  },
+  {
+    "college_id": "C204",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C205",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C205",
+    "category": "Others"
+  },
+  {
+    "college_id": "C205",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C205",
+    "category": "Management"
+  },
+  {
+    "college_id": "C206",
+    "category": "Others"
+  },
+  {
+    "college_id": "C206",
+    "category": "Management"
+  },
+  {
+    "college_id": "C206",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C207",
+    "category": "Others"
+  },
+  {
+    "college_id": "C207",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C207",
+    "category": "Management"
+  },
+  {
+    "college_id": "C208",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C208",
+    "category": "Management"
+  },
+  {
+    "college_id": "C208",
+    "category": "Others"
+  },
+  {
+    "college_id": "C209",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C209",
+    "category": "Management"
+  },
+  {
+    "college_id": "C209",
+    "category": "Others"
+  },
+  {
+    "college_id": "C210",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C213",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C213",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C213",
+    "category": "Management"
+  },
+  {
+    "college_id": "C218",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C218",
+    "category": "Management"
+  },
+  {
+    "college_id": "C218",
+    "category": "Others"
+  },
+  {
+    "college_id": "C218",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C219",
+    "category": "Others"
+  },
+  {
+    "college_id": "C219",
+    "category": "Management"
+  },
+  {
+    "college_id": "C219",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C220",
+    "category": "Management"
+  },
+  {
+    "college_id": "C220",
+    "category": "Others"
+  },
+  {
+    "college_id": "C220",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C220",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C222",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C222",
+    "category": "Management"
+  },
+  {
+    "college_id": "C222",
+    "category": "Others"
+  },
+  {
+    "college_id": "C233",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C233",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C233",
+    "category": "Others"
+  },
+  {
+    "college_id": "C233",
+    "category": "Management"
+  },
+  {
+    "college_id": "C234",
+    "category": "Management"
+  },
+  {
+    "college_id": "C234",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C234",
+    "category": "Others"
+  },
+  {
+    "college_id": "C234",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C235",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C236",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C236",
+    "category": "Management"
+  },
+  {
+    "college_id": "C236",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C236",
+    "category": "Others"
+  },
+  {
+    "college_id": "C237",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C237",
+    "category": "Management"
+  },
+  {
+    "college_id": "C237",
+    "category": "Others"
+  },
+  {
+    "college_id": "C237",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C238",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C238",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C238",
+    "category": "Others"
+  },
+  {
+    "college_id": "C238",
+    "category": "Management"
+  },
+  {
+    "college_id": "C239",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C239",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C239",
+    "category": "Management"
+  },
+  {
+    "college_id": "C240",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C240",
+    "category": "Others"
+  },
+  {
+    "college_id": "C240",
+    "category": "Management"
+  },
+  {
+    "college_id": "C241",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C241",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C241",
+    "category": "Management"
+  },
+  {
+    "college_id": "C242",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C242",
+    "category": "Management"
+  },
+  {
+    "college_id": "C242",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C243",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C244",
+    "category": "Others"
+  },
+  {
+    "college_id": "C244",
+    "category": "Management"
+  },
+  {
+    "college_id": "C244",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C245",
+    "category": "Management"
+  },
+  {
+    "college_id": "C245",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C246",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C246",
+    "category": "Others"
+  },
+  {
+    "college_id": "C246",
+    "category": "Management"
+  },
+  {
+    "college_id": "C246",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C247",
+    "category": "Management"
+  },
+  {
+    "college_id": "C247",
+    "category": "Others"
+  },
+  {
+    "college_id": "C247",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C247",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C248",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C248",
+    "category": "Others"
+  },
+  {
+    "college_id": "C248",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C249",
+    "category": "Others"
+  },
+  {
+    "college_id": "C249",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C249",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C249",
+    "category": "Management"
+  },
+  {
+    "college_id": "C250",
+    "category": "Management"
+  },
+  {
+    "college_id": "C250",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C250",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C250",
+    "category": "Others"
+  },
+  {
+    "college_id": "C251",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C251",
+    "category": "Management"
+  },
+  {
+    "college_id": "C251",
+    "category": "Medical"
+  },
+  {
+    "college_id": "C251",
+    "category": "Others"
+  },
+  {
+    "college_id": "C252",
+    "category": "Management"
+  },
+  {
+    "college_id": "C252",
+    "category": "Engineering"
+  },
+  {
+    "college_id": "C252",
+    "category": "Medical"
+  }
+]

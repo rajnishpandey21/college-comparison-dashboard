@@ -1,0 +1,1304 @@
+[
+  {
+    "college_id": "C001",
+    "placement_percentage": 0.8,
+    "avg_ctc": 600000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C002",
+    "placement_percentage": 1,
+    "avg_ctc": 650000,
+    "highest_ctc": 12000000
+  },
+  {
+    "college_id": "C003",
+    "placement_percentage": 0.99,
+    "avg_ctc": 500000,
+    "highest_ctc": 9000000
+  },
+  {
+    "college_id": "C004",
+    "placement_percentage": 0.96,
+    "avg_ctc": 500000,
+    "highest_ctc": 1600000
+  },
+  {
+    "college_id": "C005",
+    "placement_percentage": 0.93,
+    "avg_ctc": 504000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C006",
+    "placement_percentage": 1,
+    "avg_ctc": 549000,
+    "highest_ctc": 4760000
+  },
+  {
+    "college_id": "C007",
+    "placement_percentage": 0.76,
+    "avg_ctc": 500000,
+    "highest_ctc": 3221000
+  },
+  {
+    "college_id": "C008",
+    "placement_percentage": 0.8,
+    "avg_ctc": 800000,
+    "highest_ctc": 4500000
+  },
+  {
+    "college_id": "C009",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 4500000
+  },
+  {
+    "college_id": "C010",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 200000
+  },
+  {
+    "college_id": "C011",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 4237000
+  },
+  {
+    "college_id": "C012",
+    "placement_percentage": 0.5,
+    "avg_ctc": 700000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C013",
+    "placement_percentage": 0.4,
+    "avg_ctc": 400000,
+    "highest_ctc": 4400000
+  },
+  {
+    "college_id": "C014",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 1700000
+  },
+  {
+    "college_id": "C015",
+    "placement_percentage": 0.75,
+    "avg_ctc": 500000,
+    "highest_ctc": 9700000
+  },
+  {
+    "college_id": "C016",
+    "placement_percentage": 0.9,
+    "avg_ctc": 576000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C017",
+    "placement_percentage": 0.88,
+    "avg_ctc": 620000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C019",
+    "placement_percentage": 0.95,
+    "avg_ctc": 940000,
+    "highest_ctc": 3360000
+  },
+  {
+    "college_id": "C021",
+    "placement_percentage": 0.85,
+    "avg_ctc": 620000,
+    "highest_ctc": 5300000
+  },
+  {
+    "college_id": "C023",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 2400000
+  },
+  {
+    "college_id": "C024",
+    "placement_percentage": 0.85,
+    "avg_ctc": 405000,
+    "highest_ctc": 1968000
+  },
+  {
+    "college_id": "C025",
+    "placement_percentage": 0.78,
+    "avg_ctc": 470000,
+    "highest_ctc": 9000000
+  },
+  {
+    "college_id": "C026",
+    "placement_percentage": 0.89,
+    "avg_ctc": 315000,
+    "highest_ctc": 1700000
+  },
+  {
+    "college_id": "C027",
+    "placement_percentage": 0.96,
+    "avg_ctc": 650000,
+    "highest_ctc": 8500000
+  },
+  {
+    "college_id": "C028",
+    "placement_percentage": 0.9,
+    "avg_ctc": 700000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C029",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 1300000
+  },
+  {
+    "college_id": "C030",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C032",
+    "placement_percentage": 0.94,
+    "avg_ctc": 670000,
+    "highest_ctc": 6900000
+  },
+  {
+    "college_id": "C033",
+    "placement_percentage": 0.6,
+    "avg_ctc": 500000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C034",
+    "placement_percentage": 0.8,
+    "avg_ctc": 500000,
+    "highest_ctc": 650000
+  },
+  {
+    "college_id": "C035",
+    "placement_percentage": 0.99,
+    "avg_ctc": 860000,
+    "highest_ctc": 2400000
+  },
+  {
+    "college_id": "C036",
+    "placement_percentage": 0.97,
+    "avg_ctc": 800000,
+    "highest_ctc": 5660000
+  },
+  {
+    "college_id": "C037",
+    "placement_percentage": 0.8,
+    "avg_ctc": 499000,
+    "highest_ctc": 6272000
+  },
+  {
+    "college_id": "C038",
+    "placement_percentage": 0.9,
+    "avg_ctc": 1440000,
+    "highest_ctc": 1440000
+  },
+  {
+    "college_id": "C040",
+    "placement_percentage": 0.7,
+    "avg_ctc": 300000,
+    "highest_ctc": 1400000
+  },
+  {
+    "college_id": "C041",
+    "placement_percentage": 0.85,
+    "avg_ctc": 500000,
+    "highest_ctc": 5400000
+  },
+  {
+    "college_id": "C042",
+    "placement_percentage": 1,
+    "avg_ctc": 725000,
+    "highest_ctc": 1400000
+  },
+  {
+    "college_id": "C043",
+    "placement_percentage": 1,
+    "avg_ctc": 320000,
+    "highest_ctc": 6000000
+  },
+  {
+    "college_id": "C044",
+    "placement_percentage": 0.93,
+    "avg_ctc": 739000,
+    "highest_ctc": 1833000
+  },
+  {
+    "college_id": "C045",
+    "placement_percentage": 0.6,
+    "avg_ctc": 250000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C046",
+    "placement_percentage": 0.8,
+    "avg_ctc": 450000,
+    "highest_ctc": 3250000
+  },
+  {
+    "college_id": "C047",
+    "placement_percentage": 0.9,
+    "avg_ctc": 750000,
+    "highest_ctc": 1250000
+  },
+  {
+    "college_id": "C048",
+    "placement_percentage": 0.85,
+    "avg_ctc": 800000,
+    "highest_ctc": 8500000
+  },
+  {
+    "college_id": "C049",
+    "placement_percentage": 0.95,
+    "avg_ctc": 300000,
+    "highest_ctc": 1100000
+  },
+  {
+    "college_id": "C050",
+    "placement_percentage": 1,
+    "avg_ctc": 250000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C052",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 4200000
+  },
+  {
+    "college_id": "C053",
+    "placement_percentage": 0.8,
+    "avg_ctc": 480000,
+    "highest_ctc": 7600000
+  },
+  {
+    "college_id": "C054",
+    "placement_percentage": 0.95,
+    "avg_ctc": 750000,
+    "highest_ctc": 5200000
+  },
+  {
+    "college_id": "C056",
+    "placement_percentage": 0.92,
+    "avg_ctc": 650000,
+    "highest_ctc": 5000000
+  },
+  {
+    "college_id": "C057",
+    "placement_percentage": 0.7,
+    "avg_ctc": 800000,
+    "highest_ctc": 4600000
+  },
+  {
+    "college_id": "C058",
+    "placement_percentage": 0.95,
+    "avg_ctc": 650000,
+    "highest_ctc": 7000000
+  },
+  {
+    "college_id": "C059",
+    "placement_percentage": 0.93,
+    "avg_ctc": 702000,
+    "highest_ctc": 3300000
+  },
+  {
+    "college_id": "C061",
+    "placement_percentage": 0.8,
+    "avg_ctc": 460000,
+    "highest_ctc": 5400000
+  },
+  {
+    "college_id": "C062",
+    "placement_percentage": 0.75,
+    "avg_ctc": 799000,
+    "highest_ctc": 13700000
+  },
+  {
+    "college_id": "C063",
+    "placement_percentage": 0.92,
+    "avg_ctc": 575000,
+    "highest_ctc": 7000000
+  },
+  {
+    "college_id": "C064",
+    "placement_percentage": 0.89,
+    "avg_ctc": 860000,
+    "highest_ctc": 2000000
+  },
+  {
+    "college_id": "C065",
+    "placement_percentage": 0.91,
+    "avg_ctc": 850000,
+    "highest_ctc": 16000000
+  },
+  {
+    "college_id": "C066",
+    "placement_percentage": 0.93,
+    "avg_ctc": 756000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C067",
+    "placement_percentage": 1,
+    "avg_ctc": 900000,
+    "highest_ctc": 17000000
+  },
+  {
+    "college_id": "C068",
+    "placement_percentage": 1,
+    "avg_ctc": 700000,
+    "highest_ctc": 8500000
+  },
+  {
+    "college_id": "C069",
+    "placement_percentage": 0.4,
+    "avg_ctc": 100000,
+    "highest_ctc": 120000
+  },
+  {
+    "college_id": "C070",
+    "placement_percentage": 1,
+    "avg_ctc": 450000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C071",
+    "placement_percentage": 0.95,
+    "avg_ctc": 500000,
+    "highest_ctc": 2100000
+  },
+  {
+    "college_id": "C072",
+    "placement_percentage": 0.92,
+    "avg_ctc": 425000,
+    "highest_ctc": 2400000
+  },
+  {
+    "college_id": "C073",
+    "placement_percentage": 0.8,
+    "avg_ctc": 400000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C074",
+    "placement_percentage": 0.73,
+    "avg_ctc": 635000,
+    "highest_ctc": 3650000
+  },
+  {
+    "college_id": "C075",
+    "placement_percentage": 0.8,
+    "avg_ctc": 400000,
+    "highest_ctc": 540000
+  },
+  {
+    "college_id": "C076",
+    "placement_percentage": 0.93,
+    "avg_ctc": 647000,
+    "highest_ctc": 5991000
+  },
+  {
+    "college_id": "C077",
+    "placement_percentage": 0.98,
+    "avg_ctc": 840000,
+    "highest_ctc": 1475000
+  },
+  {
+    "college_id": "C078",
+    "placement_percentage": 0.95,
+    "avg_ctc": 540000,
+    "highest_ctc": 2400000
+  },
+  {
+    "college_id": "C079",
+    "placement_percentage": 0.95,
+    "avg_ctc": 338000,
+    "highest_ctc": 1680000
+  },
+  {
+    "college_id": "C080",
+    "placement_percentage": 0.64,
+    "avg_ctc": 380000,
+    "highest_ctc": 3300000
+  },
+  {
+    "college_id": "C081",
+    "placement_percentage": 0.95,
+    "avg_ctc": 520000,
+    "highest_ctc": 4400000
+  },
+  {
+    "college_id": "C082",
+    "placement_percentage": 0.65,
+    "avg_ctc": 500000,
+    "highest_ctc": 1100000
+  },
+  {
+    "college_id": "C083",
+    "placement_percentage": 0.85,
+    "avg_ctc": 500000,
+    "highest_ctc": 1100000
+  },
+  {
+    "college_id": "C084",
+    "placement_percentage": 1,
+    "avg_ctc": 750000,
+    "highest_ctc": 2000000
+  },
+  {
+    "college_id": "C085",
+    "placement_percentage": 0.7,
+    "avg_ctc": 600000,
+    "highest_ctc": 1600000
+  },
+  {
+    "college_id": "C087",
+    "placement_percentage": 0.8,
+    "avg_ctc": 350000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C088",
+    "placement_percentage": 0.8,
+    "avg_ctc": 1290000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C089",
+    "placement_percentage": 0.9,
+    "avg_ctc": 200000,
+    "highest_ctc": 2500000
+  },
+  {
+    "college_id": "C090",
+    "placement_percentage": 0.88,
+    "avg_ctc": 300000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C091",
+    "placement_percentage": 0.85,
+    "avg_ctc": 475000,
+    "highest_ctc": 1290000
+  },
+  {
+    "college_id": "C092",
+    "placement_percentage": 1,
+    "avg_ctc": 475000,
+    "highest_ctc": 1290000
+  },
+  {
+    "college_id": "C093",
+    "placement_percentage": 0.9,
+    "avg_ctc": 400000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C094",
+    "placement_percentage": 1,
+    "avg_ctc": 500000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C095",
+    "placement_percentage": 1,
+    "avg_ctc": 750000,
+    "highest_ctc": 2000000
+  },
+  {
+    "college_id": "C096",
+    "placement_percentage": 0.97,
+    "avg_ctc": 850000,
+    "highest_ctc": 2500000
+  },
+  {
+    "college_id": "C097",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 2800000
+  },
+  {
+    "college_id": "C098",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 2800000
+  },
+  {
+    "college_id": "C099",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 2800000
+  },
+  {
+    "college_id": "C100",
+    "placement_percentage": 0.9,
+    "avg_ctc": 450000,
+    "highest_ctc": 2700000
+  },
+  {
+    "college_id": "C101",
+    "placement_percentage": 0.4,
+    "avg_ctc": 550000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C102",
+    "placement_percentage": 0.6,
+    "avg_ctc": 450000,
+    "highest_ctc": 1800000
+  },
+  {
+    "college_id": "C103",
+    "placement_percentage": 0.87,
+    "avg_ctc": 450000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C104",
+    "placement_percentage": 0.77,
+    "avg_ctc": 350000,
+    "highest_ctc": 4900000
+  },
+  {
+    "college_id": "C105",
+    "placement_percentage": 0.96,
+    "avg_ctc": 500000,
+    "highest_ctc": 1280000
+  },
+  {
+    "college_id": "C106",
+    "placement_percentage": 0.83,
+    "avg_ctc": 300000,
+    "highest_ctc": 2300000
+  },
+  {
+    "college_id": "C108",
+    "placement_percentage": 0.95,
+    "avg_ctc": 650000,
+    "highest_ctc": 3000000
+  },
+  {
+    "college_id": "C109",
+    "placement_percentage": 1,
+    "avg_ctc": 825000,
+    "highest_ctc": 2800000
+  },
+  {
+    "college_id": "C110",
+    "placement_percentage": 0.59,
+    "avg_ctc": 825000,
+    "highest_ctc": 4200000
+  },
+  {
+    "college_id": "C111",
+    "placement_percentage": 0.7,
+    "avg_ctc": 350000,
+    "highest_ctc": 4200000
+  },
+  {
+    "college_id": "C112",
+    "placement_percentage": 0.7,
+    "avg_ctc": 488000,
+    "highest_ctc": 866000
+  },
+  {
+    "college_id": "C113",
+    "placement_percentage": 0.7,
+    "avg_ctc": 488000,
+    "highest_ctc": 866000
+  },
+  {
+    "college_id": "C114",
+    "placement_percentage": 0.95,
+    "avg_ctc": 800000,
+    "highest_ctc": 2500000
+  },
+  {
+    "college_id": "C115",
+    "placement_percentage": 1,
+    "avg_ctc": 850000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C116",
+    "placement_percentage": 0.95,
+    "avg_ctc": 600000,
+    "highest_ctc": 4500000
+  },
+  {
+    "college_id": "C117",
+    "placement_percentage": 0.95,
+    "avg_ctc": 600000,
+    "highest_ctc": 900000
+  },
+  {
+    "college_id": "C118",
+    "placement_percentage": 0.95,
+    "avg_ctc": 300000,
+    "highest_ctc": 720000
+  },
+  {
+    "college_id": "C119",
+    "placement_percentage": 0.95,
+    "avg_ctc": 400000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C120",
+    "placement_percentage": 0.75,
+    "avg_ctc": 325000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C121",
+    "placement_percentage": 0.85,
+    "avg_ctc": 310000,
+    "highest_ctc": 550000
+  },
+  {
+    "college_id": "C122",
+    "placement_percentage": 0.7,
+    "avg_ctc": 600000,
+    "highest_ctc": 900000
+  },
+  {
+    "college_id": "C123",
+    "placement_percentage": 0.96,
+    "avg_ctc": 430000,
+    "highest_ctc": 4900000
+  },
+  {
+    "college_id": "C124",
+    "placement_percentage": 0.75,
+    "avg_ctc": 550000,
+    "highest_ctc": 1240000
+  },
+  {
+    "college_id": "C125",
+    "placement_percentage": 0.87,
+    "avg_ctc": 560000,
+    "highest_ctc": 4360000
+  },
+  {
+    "college_id": "C126",
+    "placement_percentage": 0.45,
+    "avg_ctc": 540000,
+    "highest_ctc": 1080000
+  },
+  {
+    "college_id": "C127",
+    "placement_percentage": 0.9,
+    "avg_ctc": 350000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C128",
+    "placement_percentage": 0.75,
+    "avg_ctc": 500000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C129",
+    "placement_percentage": 0.7,
+    "avg_ctc": 480000,
+    "highest_ctc": 810000
+  },
+  {
+    "college_id": "C130",
+    "placement_percentage": 0.8,
+    "avg_ctc": 500000,
+    "highest_ctc": 1600000
+  },
+  {
+    "college_id": "C131",
+    "placement_percentage": 0.77,
+    "avg_ctc": 430000,
+    "highest_ctc": 575000
+  },
+  {
+    "college_id": "C132",
+    "placement_percentage": 0.9,
+    "avg_ctc": 800000,
+    "highest_ctc": 1610000
+  },
+  {
+    "college_id": "C133",
+    "placement_percentage": 0.95,
+    "avg_ctc": 650000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C134",
+    "placement_percentage": 1,
+    "avg_ctc": 500000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C135",
+    "placement_percentage": 0.85,
+    "avg_ctc": 550000,
+    "highest_ctc": 1100000
+  },
+  {
+    "college_id": "C136",
+    "placement_percentage": 0.85,
+    "avg_ctc": 680000,
+    "highest_ctc": 2100000
+  },
+  {
+    "college_id": "C137",
+    "placement_percentage": 1,
+    "avg_ctc": 400000,
+    "highest_ctc": 1650000
+  },
+  {
+    "college_id": "C138",
+    "placement_percentage": 0.9,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C139",
+    "placement_percentage": 0.85,
+    "avg_ctc": 480000,
+    "highest_ctc": 3950000
+  },
+  {
+    "college_id": "C140",
+    "placement_percentage": 0.65,
+    "avg_ctc": 500000,
+    "highest_ctc": 1100000
+  },
+  {
+    "college_id": "C141",
+    "placement_percentage": 0.8,
+    "avg_ctc": 650000,
+    "highest_ctc": 1800000
+  },
+  {
+    "college_id": "C142",
+    "placement_percentage": 0.3,
+    "avg_ctc": 240000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C143",
+    "placement_percentage": 0.85,
+    "avg_ctc": 386000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C144",
+    "placement_percentage": 0.9,
+    "avg_ctc": 500000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C145",
+    "placement_percentage": 0.99,
+    "avg_ctc": 409000,
+    "highest_ctc": 1400000
+  },
+  {
+    "college_id": "C146",
+    "placement_percentage": 0.7,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C147",
+    "placement_percentage": 0.99,
+    "avg_ctc": 620000,
+    "highest_ctc": 1600000
+  },
+  {
+    "college_id": "C148",
+    "placement_percentage": 0.7,
+    "avg_ctc": 300000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C149",
+    "placement_percentage": 0.65,
+    "avg_ctc": 362000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C150",
+    "placement_percentage": 1,
+    "avg_ctc": 1710000,
+    "highest_ctc": 2450000
+  },
+  {
+    "college_id": "C151",
+    "placement_percentage": 0.7,
+    "avg_ctc": 650000,
+    "highest_ctc": 1600000
+  },
+  {
+    "college_id": "C152",
+    "placement_percentage": 0.75,
+    "avg_ctc": 550000,
+    "highest_ctc": 3654000
+  },
+  {
+    "college_id": "C153",
+    "placement_percentage": 0.75,
+    "avg_ctc": 450000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C154",
+    "placement_percentage": 0.91,
+    "avg_ctc": 475000,
+    "highest_ctc": 4000000
+  },
+  {
+    "college_id": "C155",
+    "placement_percentage": 0.75,
+    "avg_ctc": 400000,
+    "highest_ctc": 1300000
+  },
+  {
+    "college_id": "C156",
+    "placement_percentage": 0.9,
+    "avg_ctc": 300000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C157",
+    "placement_percentage": 0.96,
+    "avg_ctc": 400000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C158",
+    "placement_percentage": 0.95,
+    "avg_ctc": 700000,
+    "highest_ctc": 5000000
+  },
+  {
+    "college_id": "C159",
+    "placement_percentage": 0.64,
+    "avg_ctc": 400000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C160",
+    "placement_percentage": 0.75,
+    "avg_ctc": 300000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C161",
+    "placement_percentage": 0.75,
+    "avg_ctc": 430000,
+    "highest_ctc": 850000
+  },
+  {
+    "college_id": "C162",
+    "placement_percentage": 0.65,
+    "avg_ctc": 300000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C163",
+    "placement_percentage": 0.8,
+    "avg_ctc": 360000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C164",
+    "placement_percentage": 1,
+    "avg_ctc": 550000,
+    "highest_ctc": 1150000
+  },
+  {
+    "college_id": "C165",
+    "placement_percentage": 0.75,
+    "avg_ctc": 300000,
+    "highest_ctc": 642000
+  },
+  {
+    "college_id": "C166",
+    "placement_percentage": 0.75,
+    "avg_ctc": 400000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C167",
+    "placement_percentage": 0.8,
+    "avg_ctc": 390000,
+    "highest_ctc": 780000
+  },
+  {
+    "college_id": "C168",
+    "placement_percentage": 0.75,
+    "avg_ctc": 410000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C169",
+    "placement_percentage": 0.7,
+    "avg_ctc": 100000,
+    "highest_ctc": 300000
+  },
+  {
+    "college_id": "C170",
+    "placement_percentage": 0.6,
+    "avg_ctc": 500000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C171",
+    "placement_percentage": 0.7,
+    "avg_ctc": 252000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C172",
+    "placement_percentage": 0.85,
+    "avg_ctc": 900000,
+    "highest_ctc": 2400000
+  },
+  {
+    "college_id": "C173",
+    "placement_percentage": 0.6,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C174",
+    "placement_percentage": 0.8,
+    "avg_ctc": 620000,
+    "highest_ctc": 5400000
+  },
+  {
+    "college_id": "C175",
+    "placement_percentage": 0.6,
+    "avg_ctc": 320000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C176",
+    "placement_percentage": 0.85,
+    "avg_ctc": 500000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C177",
+    "placement_percentage": 0.75,
+    "avg_ctc": 440000,
+    "highest_ctc": 550000
+  },
+  {
+    "college_id": "C178",
+    "placement_percentage": 0.2,
+    "avg_ctc": 300000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C179",
+    "placement_percentage": 0.6,
+    "avg_ctc": 550000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C180",
+    "placement_percentage": 0.7,
+    "avg_ctc": 460000,
+    "highest_ctc": 1400000
+  },
+  {
+    "college_id": "C181",
+    "placement_percentage": 0.8,
+    "avg_ctc": 650000,
+    "highest_ctc": 2650000
+  },
+  {
+    "college_id": "C182",
+    "placement_percentage": 0.92,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C183",
+    "placement_percentage": 0.92,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C185",
+    "placement_percentage": 0.8,
+    "avg_ctc": 350000,
+    "highest_ctc": 450000
+  },
+  {
+    "college_id": "C188",
+    "placement_percentage": 0.8,
+    "avg_ctc": 325000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C189",
+    "placement_percentage": 0.8,
+    "avg_ctc": 700000,
+    "highest_ctc": 2200000
+  },
+  {
+    "college_id": "C190",
+    "placement_percentage": 0.85,
+    "avg_ctc": 600000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C191",
+    "placement_percentage": 0.7,
+    "avg_ctc": 300000,
+    "highest_ctc": 480000
+  },
+  {
+    "college_id": "C192",
+    "placement_percentage": 1,
+    "avg_ctc": 1150000,
+    "highest_ctc": 2860000
+  },
+  {
+    "college_id": "C193",
+    "placement_percentage": 0.8,
+    "avg_ctc": 800000,
+    "highest_ctc": 7000000
+  },
+  {
+    "college_id": "C194",
+    "placement_percentage": 0.75,
+    "avg_ctc": 300000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C195",
+    "placement_percentage": 0.65,
+    "avg_ctc": 320000,
+    "highest_ctc": 550000
+  },
+  {
+    "college_id": "C196",
+    "placement_percentage": 0.8,
+    "avg_ctc": 550000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C197",
+    "placement_percentage": 0.8,
+    "avg_ctc": 600000,
+    "highest_ctc": 4000000
+  },
+  {
+    "college_id": "C198",
+    "placement_percentage": 0.85,
+    "avg_ctc": 500000,
+    "highest_ctc": 1800000
+  },
+  {
+    "college_id": "C199",
+    "placement_percentage": 0.6,
+    "avg_ctc": 300000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C200",
+    "placement_percentage": 0.75,
+    "avg_ctc": 380000,
+    "highest_ctc": 710000
+  },
+  {
+    "college_id": "C201",
+    "placement_percentage": 0.8,
+    "avg_ctc": 550000,
+    "highest_ctc": 1200000
+  },
+  {
+    "college_id": "C203",
+    "placement_percentage": 0.7,
+    "avg_ctc": 350000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C204",
+    "placement_percentage": 0.6,
+    "avg_ctc": 300000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C205",
+    "placement_percentage": 0.72,
+    "avg_ctc": 380000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C206",
+    "placement_percentage": 0.7,
+    "avg_ctc": 375000,
+    "highest_ctc": 750000
+  },
+  {
+    "college_id": "C207",
+    "placement_percentage": 0.93,
+    "avg_ctc": 950000,
+    "highest_ctc": 1825000
+  },
+  {
+    "college_id": "C208",
+    "placement_percentage": 0.95,
+    "avg_ctc": 850000,
+    "highest_ctc": 6010000
+  },
+  {
+    "college_id": "C209",
+    "placement_percentage": 0.85,
+    "avg_ctc": 650000,
+    "highest_ctc": 3000000
+  },
+  {
+    "college_id": "C210",
+    "placement_percentage": 1,
+    "avg_ctc": 500000,
+    "highest_ctc": 800000
+  },
+  {
+    "college_id": "C211",
+    "placement_percentage": 0.7,
+    "avg_ctc": 450000,
+    "highest_ctc": 1000000
+  },
+  {
+    "college_id": "C213",
+    "placement_percentage": 0.96,
+    "avg_ctc": 4900000,
+    "highest_ctc": 430000
+  },
+  {
+    "college_id": "C218",
+    "placement_percentage": 0.85,
+    "avg_ctc": 2900000,
+    "highest_ctc": 730000
+  },
+  {
+    "college_id": "C219",
+    "placement_percentage": 0.65,
+    "avg_ctc": 2500000,
+    "highest_ctc": 360000
+  },
+  {
+    "college_id": "C220",
+    "placement_percentage": 0.8,
+    "avg_ctc": 2650000,
+    "highest_ctc": 1232000
+  },
+  {
+    "college_id": "C222",
+    "placement_percentage": 0.89,
+    "avg_ctc": 3300000,
+    "highest_ctc": 498000
+  },
+  {
+    "college_id": "C233",
+    "placement_percentage": 0.7,
+    "avg_ctc": 2100000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C234",
+    "placement_percentage": 0.9,
+    "avg_ctc": 5000000,
+    "highest_ctc": 250000
+  },
+  {
+    "college_id": "C235",
+    "placement_percentage": 0.8,
+    "avg_ctc": 2500000,
+    "highest_ctc": 400000
+  },
+  {
+    "college_id": "C236",
+    "placement_percentage": 0.94,
+    "avg_ctc": 6500000,
+    "highest_ctc": 700000
+  },
+  {
+    "college_id": "C237",
+    "placement_percentage": 0.85,
+    "avg_ctc": 3000000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C238",
+    "placement_percentage": 0.85,
+    "avg_ctc": 3000000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C239",
+    "placement_percentage": 0.8,
+    "avg_ctc": 350000,
+    "highest_ctc": 500000
+  },
+  {
+    "college_id": "C240",
+    "placement_percentage": 0.8,
+    "avg_ctc": 350000,
+    "highest_ctc": 4500000
+  },
+  {
+    "college_id": "C241",
+    "placement_percentage": 0.8,
+    "avg_ctc": 400000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C242",
+    "placement_percentage": 1,
+    "avg_ctc": 350000,
+    "highest_ctc": 600000
+  },
+  {
+    "college_id": "C243",
+    "placement_percentage": 0.9,
+    "avg_ctc": 250000,
+    "highest_ctc": 350000
+  },
+  {
+    "college_id": "C244",
+    "placement_percentage": 0.3,
+    "avg_ctc": 450000,
+    "highest_ctc": 850000
+  },
+  {
+    "college_id": "C245",
+    "placement_percentage": 0.8,
+    "avg_ctc": 800000,
+    "highest_ctc": 550000
+  },
+  {
+    "college_id": "C251",
+    "placement_percentage": 1,
+    "avg_ctc": 500000,
+    "highest_ctc": 1500000
+  },
+  {
+    "college_id": "C252",
+    "placement_percentage": 1,
+    "avg_ctc": 400000,
+    "highest_ctc": 700000
+  }
+]
